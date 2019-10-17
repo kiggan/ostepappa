@@ -1,4 +1,4 @@
 MDwiki
 ======
 
-See http://www.mdwiki.info/ for more documentation and details.
+See http://www.mdwiki.info/ for more documentation and details and more.
