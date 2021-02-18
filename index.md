@@ -1,8 +1,8 @@
-ostnes.org
+ostnes
 ==========
 ![](http://placekitten.com/g/1200/300)
 
-Hjemmeside for Ostnes family
+Homepage Ostnes family
 ---------
 
-Dette er for å dokumentere.....
+For documentation.....
